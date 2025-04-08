@@ -1,0 +1,8 @@
+# requirements.txt para Stable Launcher
+PyQt5==5.15.9
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.12.1
+pyqt5-plugins==5.15.4.2.2
+qt5-applications==5.15.2.2.2
+qt5-tools==5.15.2.1.2
+xdg==5.1.1

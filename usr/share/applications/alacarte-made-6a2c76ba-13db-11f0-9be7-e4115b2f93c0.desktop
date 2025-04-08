@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Launcher
+Exec=/usr/sbin/launcher.py
+Comment=
+Terminal=false
+PrefersNonDefaultGPU=false
+Icon=/usr/share/icons/hicolor/scalable/apps/launcher.svg
+Type=Application
