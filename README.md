@@ -1,7 +1,7 @@
 ✨ Stable Launcher ✨
 Tu Lanzador de Aplicaciones Elegante y Ultra-Rápido
 <div align="center">
-![Alt launcher](https://ejemplo.com/imagen.jpg)
+<img src="assets/screen.png" alt="Demo animado" width="600"/>
 </div>
 🚀 ¿Por qué Stable Launcher?
 🔍 Búsqueda Instantánea – Encuentra cualquier aplicación en milisegundos con un estilo "Spotlight" pero mejorado.
