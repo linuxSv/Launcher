@@ -1,6 +1,7 @@
+<div align="center">
 ✨ Stable Launcher ✨
 Tu Lanzador de Aplicaciones Elegante y Ultra-Rápido
-<div align="center">
+
 <img src="assets/screen.png" alt="Demo animado" width="600"/>
 </div>
 🚀 ¿Por qué Stable Launcher?
